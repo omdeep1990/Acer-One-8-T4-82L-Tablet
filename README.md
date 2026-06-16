@@ -6,22 +6,22 @@
 
 ## 📱 Device Information
 
-| Property | Details |
-|----------|---------|
-| **Device** | Acer One 8 T4-82L |
-| **Chipset** | MediaTek MT6761 |
-| **Model** | T482L |
-| **Architecture** | ARM 32-bit |
+| Property         | Details           |
+|------------------|-------------------|
+| **Device**       | Acer One 8 T4-82L |
+| **Chipset**      | MediaTek MT6761   |
+| **Model**        | T482L             |
+| **Architecture** | ARM 32-bit        |
 
 ---
 
 ## ⬇️ Downloads
 
-| File | Size | Description |
-|------|------|-------------|
-| [📦 Official.Firmware.rar](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/Official.Firmware.rar) | 1010 MB | Full official firmware package |
-| [🔧 SP_Flash_Tool_V5.2404_Win.zip](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/SP_Flash_Tool_V5.2404_Win.zip) | 66.4 MB | Flash tool for Windows |
-| [💾 acer_one_8_t4-82l_firmware-master.zip](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/acer_one_8_t4-82l_firmware-master.zip) | 59.3 MB | Firmware master package |
+| File                                                                                                                                                                       | Size    | Description                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------------------|
+| [📦 Official.Firmware.rar](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/Official.Firmware.rar)                                            | 1010 MB | Full official firmware package   |
+| [🔧 SP_Flash_Tool_V5.2404_Win.zip](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/SP_Flash_Tool_V5.2404_Win.zip)                            | 66.4 MB | Flash tool for Windows           |
+| [💾 acer_one_8_t4-82l_firmware-master.zip](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/acer_one_8_t4-82l_firmware-master.zip)            | 59.3 MB | Firmware master package          |
 | [🖥️ Mediatek_Driver_Auto_Installer_v1.1352.zip](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/download/v1.0/Mediatek_Driver_Auto_Installer_v1.1352.zip) | 9.57 MB | MediaTek USB drivers for Windows |
 
 > All files are hosted on [GitHub Releases v1.0](https://github.com/omdeep1990/Acer-One-8-T4-82L-Tablet/releases/tag/v1.0)
